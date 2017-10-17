@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E://jqr/../../JQrandom/.idea/JQrandom.iml" filepath="E://jqr/../../JQrandom/.idea/JQrandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jqr.iml" filepath="$PROJECT_DIR$/.idea/jqr.iml" />
+    </modules>
+  </component>
+</project>
